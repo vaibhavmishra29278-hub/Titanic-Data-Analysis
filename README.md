@@ -1,1 +1,14 @@
-# Titanic-Data-Analysis
+# Titanic Survival Analysis
+ Internship Task 2
+
+This project analyzes the Titanic dataset to:
+- Clean missing data
+- Analyze survival patterns
+- Visualize gender, class, and age-based survival
+- Provide insights
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
